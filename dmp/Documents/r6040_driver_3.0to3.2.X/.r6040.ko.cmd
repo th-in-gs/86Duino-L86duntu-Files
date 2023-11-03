@@ -1,0 +1,1 @@
+cmd_/home/roboard/Documents/r6040_driver_3.0to3.2.X/r6040.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-23-generic/scripts/module-common.lds --build-id  -o /home/roboard/Documents/r6040_driver_3.0to3.2.X/r6040.ko /home/roboard/Documents/r6040_driver_3.0to3.2.X/r6040.o /home/roboard/Documents/r6040_driver_3.0to3.2.X/r6040.mod.o

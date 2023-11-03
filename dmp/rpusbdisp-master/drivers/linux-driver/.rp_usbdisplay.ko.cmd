@@ -1,0 +1,1 @@
+cmd_/home/dmp/rpusbdisp-master/drivers/linux-driver/rp_usbdisplay.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.4.6/scripts/module-common.lds --build-id  -o /home/dmp/rpusbdisp-master/drivers/linux-driver/rp_usbdisplay.ko /home/dmp/rpusbdisp-master/drivers/linux-driver/rp_usbdisplay.o /home/dmp/rpusbdisp-master/drivers/linux-driver/rp_usbdisplay.mod.o

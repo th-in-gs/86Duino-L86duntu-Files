@@ -1,0 +1,1 @@
+cmd_/home/dmp/CAN_Bus_Driver/3.4.6/module_RDC_CAN_pnp.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.4.6/scripts/module-common.lds --build-id  -o /home/dmp/CAN_Bus_Driver/3.4.6/module_RDC_CAN_pnp.ko /home/dmp/CAN_Bus_Driver/3.4.6/module_RDC_CAN_pnp.o /home/dmp/CAN_Bus_Driver/3.4.6/module_RDC_CAN_pnp.mod.o

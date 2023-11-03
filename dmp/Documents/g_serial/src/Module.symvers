@@ -1,0 +1,2 @@
+0x7cda9ee8	usb_gadget_probe_driver	/home/roboard/86duino_LANDrive/usbdev_driver/USBDCD_rdc	EXPORT_SYMBOL
+0x8a2055c2	usb_gadget_unregister_driver	/home/roboard/86duino_LANDrive/usbdev_driver/USBDCD_rdc	EXPORT_SYMBOL

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dmp/catkin_ws/install/setup.sh

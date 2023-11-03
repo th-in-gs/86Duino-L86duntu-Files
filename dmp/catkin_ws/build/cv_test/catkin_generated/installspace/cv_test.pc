@@ -1,0 +1,8 @@
+prefix=/home/dmp/catkin_ws/install
+
+Name: cv_test
+Description: Description of cv_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dmp/catkin_ws/install/lib 
+Requires: 

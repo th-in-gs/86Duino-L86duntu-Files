@@ -1,0 +1,2 @@
+cv_test
+-DCATKIN_DEVEL_PREFIX=/home/dmp/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dmp/catkin_ws/install
